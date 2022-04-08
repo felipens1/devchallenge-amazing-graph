@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="http://www.freepik.com">
-    <img src="./devchallenge-amazing-graph/assets/devchallenge.png" alt="Descktop Print" width="300" height="200">
+    <img src="./assets/devchallenge.png" alt="Descktop Print" width="100%">
   </a>
 
   <h3 align="center">Amazing Graph</h3>
